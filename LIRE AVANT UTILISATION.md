@@ -13,5 +13,5 @@ La variable path_shortcut est l'emplacement du raccourci Valorant, veuillez la c
 La variable picture_name est le nom du fond valorant, il change à chaque saison et même pendant.
 Pour vérifier le nouveau nom c'est à l'emplacement suivant : \VALORANT\live\ShooterGame\Content\Movies\Menu\
 
-Pour info %USERPROFILE% = C:\Users\VotreCompte\
+Pour info %USERPROFILE% = C:\Users\VotreCompte
 Emplacement par défaut de VALORANT : C:\Riot Games\VALORANT
