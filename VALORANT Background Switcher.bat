@@ -1,7 +1,7 @@
 @echo off
 chcp 28591 > nul
 
-REM Script crée par Wizurth
+REM Script crée par Wizurth 
 REM Avant utilisation, veuillez vérifier et modifier si-besoin 3 valeurs : path_valorant, path_shortcut et picture_name !
 
 REM La variable path_valorant est l'emplacement de votre dossier Riot Games, il faut la changer en fonciton de votre installation.
