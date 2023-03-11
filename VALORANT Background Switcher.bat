@@ -12,7 +12,7 @@ REM Pour vérifier le nouveau nom c'est à l'emplacement suivant : \VALORANT\li
 REM -------DEBUT---------
 
 set picture_name="HomePage_Gekko.mp4"
-set path_valorant="C:\Jeux\Riot Games"
+set path_valorant="C:\Riot Games"
 set patch_shortcut="%USERPROFILE%\Desktop\VALORANT.lnk"
 set path_movie=%path_valorant%\Background" Switcher"
 
