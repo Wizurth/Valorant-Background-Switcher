@@ -13,7 +13,7 @@ REM -------DEBUT---------
 
 set picture_name="HomePage_Gekko.mp4"
 set path_valorant="C:\Riot Games"
-set patch_shortcut="%USERPROFILE%\Desktop\VALORANT.lnk"
+set path_shortcut="%USERPROFILE%\Desktop\VALORANT.lnk"
 set path_movie=%path_valorant%\Background" Switcher"
 
 
@@ -62,10 +62,10 @@ echo Succés.
 echo.
 
 echo Lancement de VALORANT...
-start "Riot Client" %patch_shortcut% /--launch-product=valorant /--launch-patchline=live
+start "Riot Client" %path_shortcut% /--launch-product=valorant /--launch-patchline=live
 echo NE PAS TOUCHER, Attente du lancement du Client Riot.
 timeout 8
-start "Riot Client" %patch_shortcut% /--launch-product=valorant /--launch-patchline=live
+start "Riot Client" %path_shortcut% /--launch-product=valorant /--launch-patchline=live
 echo NE PAS TOUCHER, Attente du lancement de VALORANT pour modification.
 timeout 4
 
